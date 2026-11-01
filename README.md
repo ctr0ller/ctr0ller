@@ -5,18 +5,16 @@
     <h3>about me</h3>
     - brazilian | pt-br + en<br>
     - software engineering student (7/8)<br>
-    - software engineering intern
     <br>
     <h3>main langs ​​&& frameworks</h3>
-    - c#, asp.net, java, spring boot, php, typescript
+    - cpp, rust, java, php, python, C and asm
     <br>
     <h3>other technologies</h3>
-    - postman, azure, postgre sql, sql server, mysql, mongodb
+    - postman, sql server, mysql, mongodb
     <br>
     <h3>my personal website</h3>
-    <a href="https://luisdomingues.vercel.app/">luisdomingues.dev</a>
+    <a href="https://rovier.xyz/">rovier.xyz</a>
     <br><br>
-    feel free to look at my repositories and contact me (:
   </samp>
 </div>
 

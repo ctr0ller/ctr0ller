@@ -4,7 +4,7 @@
   <samp>
     <h3>about me</h3>
     - brazilian | pt-br + en<br>
-    - software engineering student (7/8)<br>
+    - software engineering student (5)<br>
     <br>
     <h3>main langs ​​&& frameworks</h3>
     - cpp, rust, java, php, python, C and asm
